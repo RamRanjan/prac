@@ -1,0 +1,3 @@
+Finally started on git
+Things are looking great. 
+Let's see what more we can do with it.
